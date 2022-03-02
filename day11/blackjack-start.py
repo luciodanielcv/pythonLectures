@@ -1,4 +1,8 @@
 
+# Displaimer: I dont know how to play Blackjack.
+# Damn it!
+
+
 import random
 import os
 from art import logo
